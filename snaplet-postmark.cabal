@@ -26,7 +26,7 @@ Library
 
   build-depends:
     base         >= 4.4     && < 5,
-    snap         >= 0.11    && < 0.12,
+    snap         >= 0.11    && < 0.14,
     text         >= 0.11    && < 0.12,
     configurator >= 0.2.0,
     transformers >= 0.3.0,
